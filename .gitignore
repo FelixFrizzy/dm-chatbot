@@ -1,0 +1,25 @@
+# Persönliche/generierte Daten - nie committen
+downloads/
+dm-auth.json
+dm-browserprofil/
+dm-chrome-profile/
+debug/
+extraction-debug/
+test-results/
+dm_artikel.csv
+dm_nicht_erkannt.csv
+
+# Secrets
+.env
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
